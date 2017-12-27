@@ -1,0 +1,280 @@
+-------------------------------------
+TESTARE : 10000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 11
+Adaugare n-1 elemente(fara realocare) : 3
+Adaugare n-1 elemente STL 4
+Reuniune 2 hashtableuri de marime n: 17
+Intersectie 2 hashtableuri de marime n: 4
+Diferenta 2 hashtableuri de marime n: 6
+Modificare fiecarui element: 16
+Stergerea a n - 1 elemente: 4
+
+
+TREAP
+
+Adaugare n-1 elemente: 12
+Reuniunea a 2 treap-uri cu n elemente: 31
+Intersectia a 2 treap-uri cu n elemente: 22
+Diferenta a 2 treap-uri cu n elemente: 24
+Modificarea fiecarui element: 16
+Stergerea a n-1 elemente: 7
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 1
+Verificarea pentru fiecare element daca apartine unei multimi: 0
+-------------------------------------
+TESTARE : 50000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 60
+Adaugare n-1 elemente(fara realocare) : 24
+Adaugare n-1 elemente STL 25
+Reuniune 2 hashtableuri de marime n: 88
+Intersectie 2 hashtableuri de marime n: 26
+Diferenta 2 hashtableuri de marime n: 46
+Modificare fiecarui element: 105
+Stergerea a n - 1 elemente: 25
+
+
+TREAP
+
+Adaugare n-1 elemente: 58
+Reuniunea a 2 treap-uri cu n elemente: 160
+Intersectia a 2 treap-uri cu n elemente: 121
+Diferenta a 2 treap-uri cu n elemente: 139
+Modificarea fiecarui element: 104
+Stergerea a n-1 elemente: 50
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 11
+Verificarea pentru fiecare element daca apartine unei multimi: 4
+-------------------------------------
+TESTARE : 100000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 114
+Adaugare n-1 elemente(fara realocare) : 50
+Adaugare n-1 elemente STL 57
+Reuniune 2 hashtableuri de marime n: 163
+Intersectie 2 hashtableuri de marime n: 57
+Diferenta 2 hashtableuri de marime n: 74
+Modificare fiecarui element: 196
+Stergerea a n - 1 elemente: 41
+
+
+TREAP
+
+Adaugare n-1 elemente: 125
+Reuniunea a 2 treap-uri cu n elemente: 296
+Intersectia a 2 treap-uri cu n elemente: 232
+Diferenta a 2 treap-uri cu n elemente: 257
+Modificarea fiecarui element: 239
+Stergerea a n-1 elemente: 136
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 32
+Verificarea pentru fiecare element daca apartine unei multimi: 10
+-------------------------------------
+TESTARE : 500000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 536
+Adaugare n-1 elemente(fara realocare) : 243
+Adaugare n-1 elemente STL 348
+Reuniune 2 hashtableuri de marime n: 892
+Intersectie 2 hashtableuri de marime n: 309
+Diferenta 2 hashtableuri de marime n: 431
+Modificare fiecarui element: 1044
+Stergerea a n - 1 elemente: 214
+
+
+TREAP
+
+Adaugare n-1 elemente: 1011
+Reuniunea a 2 treap-uri cu n elemente: 1196
+Intersectia a 2 treap-uri cu n elemente: 1075
+Diferenta a 2 treap-uri cu n elemente: 1150
+Modificarea fiecarui element: 1335
+Stergerea a n-1 elemente: 750
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 149
+Verificarea pentru fiecare element daca apartine unei multimi: 75
+-------------------------------------
+TESTARE : 750000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 936
+Adaugare n-1 elemente(fara realocare) : 368
+Adaugare n-1 elemente STL 537
+Reuniune 2 hashtableuri de marime n: 1283
+Intersectie 2 hashtableuri de marime n: 412
+Diferenta 2 hashtableuri de marime n: 567
+Modificare fiecarui element: 1366
+Stergerea a n - 1 elemente: 320
+
+
+TREAP
+
+Adaugare n-1 elemente: 1190
+Reuniunea a 2 treap-uri cu n elemente: 1598
+Intersectia a 2 treap-uri cu n elemente: 1424
+Diferenta a 2 treap-uri cu n elemente: 1422
+Modificarea fiecarui element: 2108
+Stergerea a n-1 elemente: 1110
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 228
+Verificarea pentru fiecare element daca apartine unei multimi: 119
+-------------------------------------
+TESTARE : 1000000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 1133
+Adaugare n-1 elemente(fara realocare) : 498
+Adaugare n-1 elemente STL 690
+Reuniune 2 hashtableuri de marime n: 1554
+Intersectie 2 hashtableuri de marime n: 563
+Diferenta 2 hashtableuri de marime n: 918
+Modificare fiecarui element: 1854
+Stergerea a n - 1 elemente: 408
+
+
+TREAP
+
+Adaugare n-1 elemente: 1729
+Reuniunea a 2 treap-uri cu n elemente: 1891
+Intersectia a 2 treap-uri cu n elemente: 1758
+Diferenta a 2 treap-uri cu n elemente: 1667
+Modificarea fiecarui element: 2819
+Stergerea a n-1 elemente: 1534
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 238
+Verificarea pentru fiecare element daca apartine unei multimi: 158
+-------------------------------------
+TESTARE : 1500000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 1957
+Adaugare n-1 elemente(fara realocare) : 869
+Adaugare n-1 elemente STL 1170
+Reuniune 2 hashtableuri de marime n: 2831
+Intersectie 2 hashtableuri de marime n: 844
+Diferenta 2 hashtableuri de marime n: 1179
+Modificare fiecarui element: 2752		x
+Stergerea a n - 1 elemente: 687
+
+
+TREAP
+
+Adaugare n-1 elemente: 2534
+Reuniunea a 2 treap-uri cu n elemente: 2242
+Intersectia a 2 treap-uri cu n elemente: 2237
+Diferenta a 2 treap-uri cu n elemente: 2036
+Modificarea fiecarui element: 4381
+Stergerea a n-1 elemente: 2223
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 346
+Verificarea pentru fiecare element daca apartine unei multimi: 240
+-------------------------------------
+TESTARE : 2500000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 3821
+Adaugare n-1 elemente(fara realocare) : 1568
+Adaugare n-1 elemente STL 2050
+Reuniune 2 hashtableuri de marime n: 5052
+Intersectie 2 hashtableuri de marime n: 1768
+Diferenta 2 hashtableuri de marime n: 2032
+Modificare fiecarui element: 4741
+Stergerea a n - 1 elemente: 1176
+
+
+TREAP
+
+Adaugare n-1 elemente: 4562
+Reuniunea a 2 treap-uri cu n elemente: 2916
+Intersectia a 2 treap-uri cu n elemente: 2992
+Diferenta a 2 treap-uri cu n elemente: 2527
+Modificarea fiecarui element: 8518
+Stergerea a n-1 elemente: 3948
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 477
+Verificarea pentru fiecare element daca apartine unei multimi: 400
+-------------------------------------
+TESTARE : 3500000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 4530
+Adaugare n-1 elemente(fara realocare) : 1990
+Adaugare n-1 elemente STL 2634
+Reuniune 2 hashtableuri de marime n: 6657
+Intersectie 2 hashtableuri de marime n: 2585
+Diferenta 2 hashtableuri de marime n: 2963
+Modificare fiecarui element: 8012
+Stergerea a n - 1 elemente: 1671
+
+
+TREAP
+
+Adaugare n-1 elemente: 6347
+Reuniunea a 2 treap-uri cu n elemente: 6391
+Intersectia a 2 treap-uri cu n elemente: 3169
+Diferenta a 2 treap-uri cu n elemente: 2589
+Modificarea fiecarui element: 12261
+Stergerea a n-1 elemente: 4950
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 589
+Verificarea pentru fiecare element daca apartine unei multimi: 569
+-------------------------------------
+TESTARE : 5000000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 7960
+Adaugare n-1 elemente(fara realocare) : 3250
+Adaugare n-1 elemente STL 4370
+Reuniune 2 hashtableuri de marime n: 10870
+Intersectie 2 hashtableuri de marime n: 3440
+Diferenta 2 hashtableuri de marime n: 3905
+Modificare fiecarui element: 9762
+Stergerea a n - 1 elemente: 2539
+
+
+TREAP
+
+Adaugare n-1 elemente: 9309
+Reuniunea a 2 treap-uri cu n elemente: 9960
+Intersectia a 2 treap-uri cu n elemente: 3449
+Diferenta a 2 treap-uri cu n elemente: 2783
+Modificarea fiecarui element: 18823
+Stergerea a n-1 elemente: 6476
+
+
+Disjoint Set : 
+
+Adaugarea a n-1 elemente: 823
+Verificarea pentru fiecare element daca apartine unei multimi: 860

@@ -1,0 +1,25 @@
+#!/bin/bash
+
+rm REZ/REZULTATE
+touch REZ/REZULTATE
+
+echo 10k
+./exec test10k.in >> REZ/REZULTATE
+echo 50k
+./exec test50k.in >> REZ/REZULTATE
+echo 100k
+./exec test100k.in >> REZ/REZULTATE
+echo 500k
+./exec test500k.in >> REZ/REZULTATE
+echo 750k
+./exec test750k.in >> REZ/REZULTATE
+echo 1mil
+./exec test1mil.in >> REZ/REZULTATE
+echo 1mil5
+./exec test1mil5.in >> REZ/REZULTATE
+echo 2mil5
+./exec test2mil5.in >> REZ/REZULTATE
+echo 3mil5
+./exec test3mil5.in >> REZ/REZULTATE
+echo 5mil
+./exec test5mil.in >> REZ/REZULTATE

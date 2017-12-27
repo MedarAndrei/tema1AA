@@ -1,0 +1,36 @@
+-------------------------------------
+TESTARE : 1000000 ELEMENTE
+HASHTABLE
+
+Adaugare n-1 elemente(cu realocare) : 1098
+Adaugare n-1 elemente(fara realocare) : 492
+Adaugare n-1 elemente STL 692
+Adaugare un singur element(ns): 1853
+Reuniune 2 hashtableuri de marime n: 1552
+Intersectie 2 hashtableuri de marime n: 558
+Diferenta 2 hashtableuri de marime n: 771
+Modificare fiecarui element: 1807
+Modificare un singur element(ns): 3296
+Stergere un singur element(ns): 609
+Stergerea a n - 1 elemente: 414
+
+
+TREAP
+
+Adaugare n-1 elemente: 1709
+Adaugarea unui singur element(ns): 2303
+Reuniunea a 2 treap-uri cu n elemente: 1835
+Intersectia a 2 treap-uri cu n elemente: 1738
+Diferenta a 2 treap-uri cu n elemente: 1636
+Modificarea fiecarui element: 2781
+Modificarea unui singur element(ns): 3932
+Stergerea unui singur element(ns): 4117
+Stergerea a n-1 elemente: 1498
+
+
+Disjoint Set : 1000000
+
+Adaugarea a n-1 elemente: 233
+Adaugarea unui singur element(ns): 159
+Verificarea pentru fiecare element daca apartine unei multimi: 156
+Reuniunea a 2 multimi de marime n(ns): 941

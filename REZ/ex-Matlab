@@ -1,0 +1,13 @@
+>> hash_add_realoc =  [11, 60, 114, 536, 996, 1133, 1957, 3821, 4358, 7960];
+>> hash_add_fara = [ 3, 24, 50, 243, 368, 498, 869, 1568, 1990, 3250];
+>> hash_stl = [ 4, 25, 57, 348, 537, 690, 1170, 2050, 2634, 4370];
+>> treap_add = [ 12, 58, 125, 1011, 1190, 1729, 2534, 4562, 6347, 9309 ];
+>> dis_add = [ 1, 11,  32, 149, 228, 238, 346, 477, 589, 823];
+>> hash_add_realoc =  [11, 60, 114, 536, 936, 1133, 1957, 3821, 4530, 7960];
+>> figure(1,"position",get(0,"screensize"))
+>> teste = [ 10000, 50000, 100000, 500000, 750000, 1000000, 1500000, 2500000, 3500000, 5000000];
+>> plot(teste, hash_add_realoc, "r;adaugare hashtable cu realocare;");>> hold on
+>> plot(teste, hash_add_fara, "c;adaugare hashtable fara realocare;");
+>> plot(teste, hash_stl, "m;adaugare hashtable stl;");
+>> plot(teste, treap_add, "b;adaugare treap;");
+>> plot(teste, dis_add, "g;adaugare disjoint set;");
